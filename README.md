@@ -5,12 +5,21 @@ This is a simple Pacman game implemented using HTML, CSS, and JavaScript.
 ## Features
 - Classic Pacman gameplay mechanics.
 - Responsive design.
-- [Demo Link](link-to-your-demo)
+- [Demo Link](https://t-vulpes.github.io/pacman_game/)
 
 ## Screenshots
 ![Gameplay Screenshot](https://github.com/T-vulpes/pacman_game/blob/main/sc.JPG)
 
-## How to Play
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pacman-game.git
+------------------------------------------
+
+# Pacman Oyunu TR
+
+Bu, HTML, CSS ve JavaScript kullanılarak uygulanan basit bir Pacman oyunudur.
+
+## Özellikler
+- Klasik Pacman oynanış mekaniği.
+- Duyarlı tasarım.
+- [Demo Bağlantısı](https://t-vulpes.github.io/pacman_game/)
+
+## Ekran görüntüleri
+![Oyun Ekran Görüntüsü](https://github.com/T-vulpes/pacman_game/blob/main/sc.JPG)
