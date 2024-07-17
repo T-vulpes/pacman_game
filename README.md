@@ -1,4 +1,4 @@
-# Pacman Game
+# Pacman Game EN
 
 This is a simple Pacman game implemented using HTML, CSS, and JavaScript.
 
